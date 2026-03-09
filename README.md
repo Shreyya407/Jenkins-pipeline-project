@@ -88,6 +88,8 @@ Password Strength Checker
 Password: DevOps123!
 Strength: Strong Password
 ```
+<img width="359" height="109" alt="Screenshot 2026-03-10 012304" src="https://github.com/user-attachments/assets/1169fe06-3b29-4e94-9b4f-61877ddf0ef4" />
+<img width="365" height="109" alt="Screenshot 2026-03-10 012256" src="https://github.com/user-attachments/assets/e87162ac-fba3-438d-ac3b-bd605b6a6ab0" />
 
 ---
 
