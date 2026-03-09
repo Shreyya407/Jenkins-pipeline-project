@@ -19,7 +19,7 @@ def check_password_strength(password):
 def main():
     print("Password Strength Checker")
 
-    password = "DevOps123!"
+    password = "D123!"
 
     strength = check_password_strength(password)
 
